@@ -19,7 +19,8 @@
       }
     ],
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"],
+      "@open-convention-planner/ui/*": ["../../packages/ui/src/*"]
     }
   },
   "include": [
